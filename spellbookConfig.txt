@@ -9,13 +9,13 @@
 #
 # Functional Example:
 0
-FIRE BOLT:fire bolt.json
-LIGHT:light.json
-MESSAGE:message.json
+RAY OF FROST:ray of frost.json
+ELDRITCH BLAST:eldritch blast.json
+MAGE HAND:mage hand.json
 1
-FEATHER FALL:feather fall.json
-FIND FAMILIAR:find familiar.json
-IDENTIFY:identify.json
-MAGE ARMOUR:mage armor.json
-MAGIC MISSILE:magic missile.json
-SHIELD:shield.json
+HELLISH REBUKE:hellish rebuke.json
+WRATHFUL SMITE:wrathful smite.json
+UNSEEN SERVANT:unseen servant.json
+2
+HOLD PERSON:hold person.json
+
