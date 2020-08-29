@@ -1,0 +1,22 @@
+# This file contains all the necessary data to set up your spells! 
+# Treat this as listing the spells in your spell sheet, or the spells you have prepared.
+#
+# All spells follow this format: SPELLNAME:spellfile.json
+#
+# The spells are also organized by level (indicated with a number), in order.
+#
+# Any lines with a hash symbol (#) in front of them are ignored.
+#
+# Functional Example:
+0
+FIRE BOLT:fire bolt.json
+LIGHT:light.json
+MESSAGE:message.json
+ELDRITCH BLAST:eldritch blast.json
+1
+FEATHER FALL:feather fall.json
+FIND FAMILIAR:find familiar.json
+IDENTIFY:identify.json
+MAGE ARMOUR:mage armor.json
+MAGIC MISSILE:magic missile.json
+SHIELD:shield.json
