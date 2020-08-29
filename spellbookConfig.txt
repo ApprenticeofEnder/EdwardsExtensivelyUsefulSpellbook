@@ -12,7 +12,6 @@
 FIRE BOLT:fire bolt.json
 LIGHT:light.json
 MESSAGE:message.json
-ELDRITCH BLAST:eldritch blast.json
 1
 FEATHER FALL:feather fall.json
 FIND FAMILIAR:find familiar.json
