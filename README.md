@@ -2,6 +2,8 @@ Edward's Extensively Useful Spellbook (For D&D 5e)
 
 Created By Robert Babaev
 
+Developed for Windows
+
 All spells included with this program are property of Wizards of the Coast. 
 
 ---
